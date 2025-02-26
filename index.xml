@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nings Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://janejiang0721.github.io/ning.github.io/</link>
     <description>Recent content on Nings Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Feb 2025 08:03:33 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://janejiang0721.github.io/ning.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog</title>
-      <link>http://localhost:1313/posts/my-first-blog/</link>
+      <link>https://janejiang0721.github.io/ning.github.io/my-first-blog/</link>
       <pubDate>Wed, 26 Feb 2025 08:03:33 -0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-blog/</guid>
+      <guid>https://janejiang0721.github.io/ning.github.io/my-first-blog/</guid>
       <description>&lt;p&gt;This is my first blog.&lt;/p&gt;</description>
     </item>
   </channel>
